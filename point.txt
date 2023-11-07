@@ -1,0 +1,17 @@
+4x4 Mine Sweeper One Player
+
+Coodrdinate (Matrix)
+
+Random of Mine & Number
+
+Move Flag 
+
+Mine number around the point
+
+Quit & No heart & No mine & No Flag & Game board Full
+
+No flag & still have heart  Player Win
+
+No heart Player lose
+
+Extra Funtion
